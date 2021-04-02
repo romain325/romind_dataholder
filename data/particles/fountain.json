@@ -1,0 +1,85 @@
+{
+  "backgroundMode": {
+    "enable": true
+  },
+  "fpsLimit": 60,
+  "particles": {
+    "number": {
+      "value": 0
+    },
+    "bounce": {
+      "vertical": {
+        "value": 0
+      }
+    },
+    "color": {
+      "value": "#5bc0eb"
+    },
+    "collisions": {
+      "enable": false
+    },
+    "life": {
+      "duration": {
+        "sync": true,
+        "value": 10
+      },
+      "count": 1
+    },
+    "opacity": {
+      "value": 0.5
+    },
+    "size": {
+      "value": 3,
+      "random": {
+        "enable": true,
+        "minimumValue": 1
+      }
+    },
+    "move": {
+      "enable": true,
+      "gravity": {
+        "enable": true
+      },
+      "angle": {
+        "value": 30
+      },
+      "speed": 10,
+      "outMode": "bounce",
+      "trail": {
+        "enable": true,
+        "fillColor": "#000000",
+        "length": 10
+      }
+    }
+  },
+  "interactivity": {
+    "detectsOn": "canvas",
+    "events": {
+      "resize": true
+    }
+  },
+  "detectRetina": true,
+  "background": {
+    "color": "#000"
+  },
+  "emitters": {
+    "direction": "top",
+    "life": {
+      "count": 0,
+      "duration": 0,
+      "delay": 0
+    },
+    "position": {
+      "x": 50,
+      "y": 50
+    },
+    "rate": {
+      "delay": 0.1,
+      "quantity": 5
+    },
+    "size": {
+      "width": 0,
+      "height": 0
+    }
+  }
+}

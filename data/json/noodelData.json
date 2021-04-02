@@ -1,0 +1,77 @@
+[
+    {
+    	"id": "Main",
+    	"isActive": true,
+        "content": "<img width=\"300\" height=\"300\" src=\"https://avatars.githubusercontent.com/romain325?size=400\" />",
+        "children": [
+            {
+            	"id": "Hobbies",
+                "content": "<h2>What do you love ?</h2>",
+                "children": [
+                	{
+                		"id": "cs",
+                		"content": "<div><h2>Computer Science</h2><hr><p>I'm a passionate of Computer Science!! <br>I do spend most of my free time programming things in various languages and for various purpose! <br> From the OpenSource collaboration to the Hacking Box and Mathematics & Algorithmics,<br> I do love to explore all the sides of Computer Science and I've always that eager to learn new things !! </p></div>"
+                	},
+                	{
+                		"id": "music",
+                		"content": "<div><h2>Music</h2><hr><p>I'm kind of a music nerd as I love listening to a lot of different kinds of music.<br> Discovering new styles and explore the way we can understand and interpret it.<br>The way we react to music and feel it is a mystery that I want to solve<br>I do some composing and I analize all the music I listen to!<br>In conclusion, I'm the music nerd with a playlist for each mood. <br>And I can't give you one song advice, I'll create a whole playlist for you!</p></div>"
+                	},
+                	{
+                		"id": "art",
+                		"content": "<div><h2>Art & Cultures</h2><hr><p>As I'm curious I love to discover things, and especially art.<br>Art is a way for me to understand the world and the many perceptions we can have<br>Understanding art helps us Understanding the world around us in a deeper way than just observing<br>And the differents cultures (related to the art most of the time) does explain the same things.<br>Art & Culture is an amazing way to understand our world.</p></div>"
+                	}
+                ]
+            },
+            {
+                "content": "<h2>Why would you be a good team mate ?</h2>",
+                "children": [
+                	{
+                		"id": "autonomy",
+                		"content": "<div><h2>Autonomy</h2><hr><p>I do am really autonomous as I've always worked on personal project and learned to overstep difficulty by myself.<br>From my various investissement in personal project I've learned how to be autonomous and find solutions by myself.<br>I know how to solve problem and not getting stuck on them and hoping someone would save me!<br>We're not in Disney, life isn't that easy!</p></div>"
+                	},
+                	{
+                		"id": "team",
+                		"content": "<div><h2>Team Work</h2><hr><p>As I said just upper, I'm autonomous, but that doesn't mean I don't know how to work with a team! <br>From my work experiences, my Hackatons, my Online and school projects, I've learn to work in team.<br>I know how to collaborate with people efficiently and in a healthy environnement. </p></div>"
+                	},
+                	{
+                		"id": "adaptation",
+                		"content": "<div><h2>Adaptation & Flexibility</h2><hr><p>From my personal projects, school projects and work experiences, I've learned how to adapt to various situation.<br>I know how to manage stress and changes, so I can reorient myself pretty quick and be as flexible as possible<p></div>"
+                	},
+                	{
+                		"id": "communication",
+                		"content": "<div><h2>Communication</h2><hr><p>I'm an easy talker and I like to share with others.<br>My ability to speak english helps me communicate with the largest range of people possible.<br>I easly integrate myself in groups and fit well in teams!<br>As I'm practicing english with foreign friends, I've an english that goes pretty fluently.<br>Besides small mistakes, I always manage to make people understand me without any struggle!</p></div>"
+                	}
+                ]
+            },
+            {
+                "content": "<h2>How did you learn what you know ?</h2>",
+                "children": [
+                	{
+                		"content": "<div><h2>Passion</h2><hr><p>My curiosity is one of my best qualities, and mixed with passion I'm unstoppable!<br>(This is not a professional resume so of course I can say that ahah!)<br>I usually gets really interested and then do a lot of research<br>Once this done I usually practice all the things I've learned!!<br> And all those little things that i've learned helps me on day or an other !<br>By doing this I've acquired a lot of resources useful in many situations! </p></div>"
+                	},
+                	{
+                		"content": "<div><h2>School</h2><hr><p>I'm a Computer Science student so of course most of my knowledge come from here !<br>I'm doing a Computer Science DUT in Clermont-Ferrand and I'm actually in my seconde year!<br>I've learned lots of different technical skills such as OOP/Networks/Database/Algorithmics<br>But I've learned lots of soft skills too such as Organisation, Team Work, Modelisation .</p></div>"
+                	},
+                	{
+                		"content": "<div><h2>On the Run!</h2><hr><p>And most of my knowledge come from practicing, with the tons of differents projects I use and invest in.<br>I work in multiple languages, with different strategies and with team with differents backgrounds and methods.<br>Solving problems learned me a lot of new techniques that i would have never heard of without this experience.<br>Through this investissement, I've learned most of my technical skills</p></div>"
+                	}
+                ]
+            },
+            {
+            	"id": "contacts",
+                "content": "<h2>How can I contact you ?</h2>",
+                "children": [
+                	{
+                		"content": "<div><h2>Mail</h2><hr><p>Easiest and fastest way to get in touch with me!<br> Here is my mail: <a class=\"text-primary\" href=\"mailto:romainolivier42@gmail.com?subject=Lets Get In Touch\">romainolivier42@gmail.com</a></p></div>"
+                	},
+                	{
+                		"content": "<div><h2>GitHub</h2><hr><p>Want to see a bit of my work before communicating with me? Sure! Here is my <a class=\"text-primary\" href=\"https://github.com/romain325\">GitHub</a></p></div>"
+                	},
+                	{
+                		"content": "<div><h2>LinkedIn</h2><hr><p>Really professional but slower that my other contacts. Here is my <a class=\"text-primary\" href=\"https://www.linkedin.com/in/romain-olivier-39388a198/\">LinkedIn</a></p></div>"
+                	}
+                ]
+            }
+        ]
+    }
+]
